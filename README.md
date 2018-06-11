@@ -30,7 +30,7 @@ Navigate to supported websites and:
 
 Any value is accepted
 
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/64px-Bitcoin.svg.png"/>BitCoin: 1Kr7fr3MhQHetVE467mVCLjcAQxYg7wbUx</p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Bitcoin.svg/64px-Bitcoin.svg.png"/>BitCoin: 3JFchMAsNjNYHB3EFFxo6fHW4QQPqxhf2c</p>
 
 
 I'll bet your donation and reward you in the future.
